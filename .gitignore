@@ -1,0 +1,14 @@
+# IDE / Editor
+.idea
+
+# media file
+/media
+
+# Sqlite db
+db.sqlite3
+
+# migrations
+migrations/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
